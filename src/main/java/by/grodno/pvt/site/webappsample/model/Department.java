@@ -16,6 +16,7 @@ import lombok.Data;
 @AllArgsConstructor
 @Data
 @Entity
+
 public class Department {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

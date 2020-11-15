@@ -2,10 +2,7 @@
 <html>
 <body>
 
-    <jsp:useBean id="obj"
-                 class="by.grodno.pvt.site.webappsample.OurTestJavaBean">
-        <jsp:setProperty name="obj" property="value" value="VALUE"/>
-    </jsp:useBean>
+
 
 
     <%@ include file="fragments/header.jsp" %>

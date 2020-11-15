@@ -1,4 +1,4 @@
-package by.grodno.pvt.site.webappsample.model;
+package by.grodno.pvt.site.webappsample.interfacee;
 
 import  by.grodno.pvt.site.webappsample.model.User;
 

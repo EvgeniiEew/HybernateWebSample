@@ -28,7 +28,6 @@ public class User {
 
     private String firstName;
     private String lastName;
-    private Date birthdate;
 
     @Column(name = "isMale")
     private boolean male;
@@ -37,4 +36,16 @@ public class User {
     @JoinColumn(name = "department_id")
     private Department ownerDepartment;
 
+//    public void setLastName(String adgha) {
+//        this.lastName = adgha;
+//    }
+//
+//    public void setFirstName(String lol) {
+//    }
+//
+//    public void setCreateDate(Date date) {
+//    }
+//
+//    public void setMale(boolean b) {
+//    }
 }

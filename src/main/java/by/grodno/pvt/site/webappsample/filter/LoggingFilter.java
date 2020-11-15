@@ -1,7 +1,6 @@
 package by.grodno.pvt.site.webappsample.filter;
 
 import java.io.IOException;
-import java.net.HttpRetryException;
 import java.util.Enumeration;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -14,8 +13,6 @@ import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 
 import org.apache.log4j.Logger;
-
-import by.grodno.pvt.site.webappsample.service.UserService;
 
 public class LoggingFilter implements Filter {
 
