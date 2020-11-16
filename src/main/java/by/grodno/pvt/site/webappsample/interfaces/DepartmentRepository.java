@@ -1,4 +1,4 @@
-package by.grodno.pvt.site.webappsample.interfacee;
+package by.grodno.pvt.site.webappsample.interfaces;
 
 
 import by.grodno.pvt.site.webappsample.model.Department;

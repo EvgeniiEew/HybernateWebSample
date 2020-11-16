@@ -7,7 +7,7 @@ import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;
 
 import by.grodno.pvt.site.webappsample.model.HibernateUtil;
-import by.grodno.pvt.site.webappsample.interfacee.UserRepository;
+import by.grodno.pvt.site.webappsample.interfaces.UserRepository;
 import org.hibernate.Session;
 
 import by.grodno.pvt.site.webappsample.model.User;

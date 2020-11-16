@@ -2,7 +2,7 @@ package by.grodno.pvt.site.webappsample.service;
 
 import java.util.List;
 
-import by.grodno.pvt.site.webappsample.interfacee.DepartmentRepository;
+import by.grodno.pvt.site.webappsample.interfaces.DepartmentRepository;
 import by.grodno.pvt.site.webappsample.model.Department;
 
 import by.grodno.pvt.site.webappsample.model.HibernateUtil;
